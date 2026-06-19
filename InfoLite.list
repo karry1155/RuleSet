@@ -1,0 +1,33 @@
+# NAME: InfoLite
+# AUTHOR: karry1155
+# UPDATED: 2026-06-19 00:00:00
+# DOMAIN: 7
+# DOMAIN-SUFFIX: 20
+# TOTAL: 27
+DOMAIN,developer.mozilla.org
+DOMAIN,docs.python.org
+DOMAIN,docs.npmjs.com
+DOMAIN,pypi.org
+DOMAIN,arxiv.org
+DOMAIN,www.deepl.com
+DOMAIN,www.wolframalpha.com
+DOMAIN-SUFFIX,wikipedia.org
+DOMAIN-SUFFIX,wikimedia.org
+DOMAIN-SUFFIX,wiktionary.org
+DOMAIN-SUFFIX,stackoverflow.com
+DOMAIN-SUFFIX,stackexchange.com
+DOMAIN-SUFFIX,serverfault.com
+DOMAIN-SUFFIX,superuser.com
+DOMAIN-SUFFIX,readthedocs.io
+DOMAIN-SUFFIX,readthedocs.org
+DOMAIN-SUFFIX,github.io
+DOMAIN-SUFFIX,npmjs.com
+DOMAIN-SUFFIX,python.org
+DOMAIN-SUFFIX,pypi.org
+DOMAIN-SUFFIX,arxiv.org
+DOMAIN-SUFFIX,semanticscholar.org
+DOMAIN-SUFFIX,mdn.mozilla.net
+DOMAIN-SUFFIX,mozilla.org
+DOMAIN-SUFFIX,wolframalpha.com
+DOMAIN-SUFFIX,deepl.com
+DOMAIN-SUFFIX,linguee.com
