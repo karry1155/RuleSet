@@ -1,7 +1,11 @@
-# Loon 自动配置 - 此配置文件自动选择网络时延最低的节点，全程无需人工干预，完全自动化。
-# Date: 2025-11-08 00:21:37
-# Author: https://t.me/iKeLee
-# 更多插件可前往 https://hub.kelee.one 安装
+# Loon 配置 
+# 家宽：AI、Google、Line、Whatapp、Instagram、tiktok、Facebook、Twitter、Discord、Reddit、Slack、Reddit、LinkedIn、PayPal
+# 直连：苹果、微软、所有国内
+# 新加坡：油管
+# 香港：GitHub、Telegram
+# 拦截：广告、劫持、隐私
+# 全球：搜索引擎
+
 
 [General]
 ip-mode = v4-only
