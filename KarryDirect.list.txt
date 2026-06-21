@@ -1,0 +1,6 @@
+# NAME: Karry-Direct
+# UPDATED: 2026-06-21 16:25:14
+
+
+DOMAIN-SUFFIX,jd.com
+DOMAIN-SUFFIX,360buyimg.com
